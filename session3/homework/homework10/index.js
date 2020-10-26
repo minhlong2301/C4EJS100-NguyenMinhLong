@@ -6,3 +6,4 @@ for (let name of names) {
 }
 alert(`${names} => ${newNames1}`);
 
+ 
