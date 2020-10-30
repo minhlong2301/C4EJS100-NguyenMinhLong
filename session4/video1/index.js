@@ -4,3 +4,4 @@ let movie = {
     rate: 8.4,
 };
 console.log(movie);
+ 
