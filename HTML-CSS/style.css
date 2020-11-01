@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background: url(https://tourdulichmaldives.com/view/at_maldives-xung-dang-la-thien-duong-tren-mat-dat_d2174835f5fa1324938379b8887decb1.jpg) no-repeat center center fixed;
+    background-size: cover;
+
+    
+
+}
+#menu ul{
+    list-style-type: none;
+    text-align: center;  
+    
+}
+#menu ul li{
+    display: inline-table;
+    width: 120px;
+}
+#menu ul li a{
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    line-height: 40px;
+    display: block;
+    transition: 0.8s ease;
+    border: 5px solid orchid;
+}
+
+#menu ul li a:hover{
+    background-color: teal;
+
+
+}
+
+#menu ul li a.active{
+    color: yellow;
+}
+   
+h1{
+    color:black; 
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+    
+    
+
+}
+
+.ak{
+    margin-top: 50px;
+    margin-left: 600px;
+    font-size: 25px;
+    text-transform: uppercase;
+  
+    
+}
+.abcd-1{
+    background-color: paleturquoise;
+    text-decoration: none;
+}
+
+.abcd-2{
+    background-color: paleturquoise;
+    text-decoration: none;
+}
+
+
