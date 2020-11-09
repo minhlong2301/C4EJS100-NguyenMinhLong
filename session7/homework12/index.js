@@ -9,4 +9,4 @@ const domList = document.getElementById("ul_test_items_list");
 
 
 console.log(3);
-console.log(domList);
+console.log(domList);  
