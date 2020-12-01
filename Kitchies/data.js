@@ -341,6 +341,208 @@ let data = [
         <p>Chúc các bạn có món chân gà sốt Thái nhâm nhi mùa lạnh nhé :X</p>`,
     }
 
+    {
+        id: 20,
+        nameFood:'Sinh tố xoài Mango Lassi kiểu Ấn',
+        type: ['Drink'],
+        img:'img/sinhtoxoai1.jpg',
+        intro:'Mùa hè nóng nực đi Lidl thấy người ta giảm giá xoài, 1.09€ 1 quả, quả nào cũng to và nhìn rất ngon nghẻ, vậy là mình xách hẳn 6 quả mang về dùng dần. Để khoảng 1 tuần xoài chín mềm nên mình quyết định làm sinh tố xoài kiểu Ấn, đồ uống ưa thích mỗi khi mình đi ăn ở hàng Ấn 🙂 làm ở nhà vừa sạch sẽ vừa chất lượng vừa rẻ, chưa kể còn bổ sung thêm vitamin cho đứa da xấu như mình 😁',
+        content: `
+        <img src="img/sinhtoxoai2.jpg" alt="">
+        <strong>CHUẨN BỊ:</strong>
+        <ul>
+            <li>1.1 quả xoài chín mềm (to khoảng bàn tay con gái 😁) mua ở siêu thị, tùy loại xoài sẽ cho ra màu sắc khác nhau của Lassi. Nếu chọn xoài Ấn thì khoảng 4 quả vì chúng bé như nắm tay vậy, và sẽ ngon hơn</li>
+            <li>2.1 hộp sữa chua Hi Lạp (150gr) (bạn nào không có có thể dùng sữa chua thường, nhưng mà chọn loại đặc chút nhé, lúc đó thành phẩm mới mịn)</li>
+            <li>3.150ml sữa tươi không đường (có thể thay bằng nước lọc)</li>
+            <li>4.Khoảng 3 thìa ăn sữa đặc hoặc mật ong hoặc đường (tùy độ ngọt của xoài mà gia giảm nhé)</li>
+            <li>5.1 cái rây</li>
+            <li>6.1/4 thìa cafe bột bạch đậu khấu màu xanh (green cardamom) hoặc 1/2 thìa cafe nước hoa hồng (rose water) – Tùy chọn</li>
+            <li>7.Máy xay sinh tố</li>
+            <li>Ít lá bạc hà rắc lên tạo mùi thơm</li>
+        </ul>
+        <strong>CÁCH LÀM:</strong>
+
+        <p>1.Xoài nên để chín mềm nhé, vì khi xoài còn cứng thì uống nó vẫn hơi lợn cợn, không thơm bằng xoài chín và không được mịn lắm. Thái miếng rồi cho vào máy sinh tố cũng sữa tươi, sữa chua Hi Lạp và sữa đặc, xay nhuyễn</p>
+        <p>2.Dùng rây lọc loại bỏ bã để thu được hỗn hợp mịn như kem</p>
+        <p>3.Cho vào cốc. Có thể để mát tầm 1-2 tiếng rồi dùng. Cắm ống hút vào và thưởng thức thôi 🙂 chúc cả nhà làm thành công nhé</p>
+        <img src="img/sinhtoxoai3.jpg" alt=""> `,
+    }
+
+    {
+        id: 21,
+        nameFood:'Cách làm sa tế (ớt chưng) Trung Hoa 2 - Chinese chili oil',
+        type: ['Flavor'],
+        img:'img/sate1.jpg',
+        intro:'Ớt chưng là gia vị được làm từ ớt (đặc biệt là ớt đến từ vùng Tứ Xuyên, Trung Quốc), hạt tiêu Tứ Xuyên (hay còn gọi là hoa tiêu), cùng một vài nguyên liệu khác như gừng, hành, hoa hồi, thảo quả, vừng rang….Theo cách làm truyền thống thì ớt ban đầu được sao lên để dậy mùi thơm, sau đó giã mịn bằng cối đá, như vậy mới cho được ớt chưng ngon và chuẩn nhất. Tuy nhiên không phải ai cũng có điều kiện làm như vậy thì các bạn có thể thay thế bằng ớt bột mua sẵn ở siêu thị, sẽ tiết kiệm được thời gian và công sức. Ngoài ra loại ớt bạn dùng cũng ảnh hưởng khá nhiều đến mùi vị của ớt chưng.',
+        content:`
+        <p>Sau nhiều ngày ngồi nghiền ngẫm đủ loại công thức, xem đủ loại video thì mình cũng đúc kết ra được một cách làm mà mình cảm thấy khá hài lòng về độ “chuẩn hàng”. Trước đây mình có đăng một bài tương tự nhưng sử dụng ớt có sẵn. Các bạn có thể tham khảo ở link sau:</p>
+        <strong>Cách làm sa tế Trung Hoa:</strong>
+        <p>Về tiêu Tứ Xuyên (hay còn gọi là hoa tiêu) thì mình sử dụng cả tiêu xanh lẫn đỏ. Đây là loại gia vị vô cùng quan trọng trong ẩm thực Tứ Xuyên. Về phương diện thực vật thì tiêu Tứ Xuyên không thuộc họ tiêu mà thuộc họ cam quýt, do đó tiêu Xuyên đỏ và xanh đều có phảng phất mùi vị như cam quýt, trong đó tiêu xanh có vị tê và đậm hương hơn tiêu đỏ. Tiêu xanh đặc biệt rất thích hợp cho các món liên quan đến cá, gà và rau, cũng phổ biến trong món lẩu và mì nước. Ở nước ngoài thì chủ yếu bán tiêu đỏ nhiều hơn tiêu xanh. Nên loại bỏ hạt đen của tiêu vì hạt có vị đắng làm ảnh hưởng đến chất lượng món ăn.</p>
+        <strong>!!!Lưu Ý:</strong> <i>nhiều bạn nhầm giữa tiêu Tứ Xuyên và hạt mắc khén Tây Bắc. 2 loại này là 2 loại có mùi vị khác nhau mặc dù chúng đều có đặc điểm là ăn vào có vị tê. Tiêu Xuyên có thể mua được ở 1 số quầy thuốc Bắc vì chúng là gia vị thuốc. Ngoài ra mắc khén có hạt nhỏ hơn tiêu Xuyên 1 tẹo.</i>
+        <img src="img/sate2.jpg" alt="">
+        <img src="img/sate3.jpg" alt="">
+        <strong>NGUYÊN LIỆU:tbsp = thìa ăn , tsp = thìa cà phê</strong>
+        <ul>
+            <li>50gr ớt khô nguyên quả (có thể mua ớt bột có sẵn đóng gói) (chili)</li>
+            <li>220ml dầu ăn (oil)</li>
+            <li>1 tsp tiêu Tứ Xuyên xanh (hoặc thay bằng tiêu đỏ)</li>
+            <li>1 tsp tiêu Tứ Xuyên đỏ (Sichuan peppercorns)</li>
+            <li>1 bông hồi (star anise)</li>
+            <li>1 thanh quế nhỏ (cinnamon)</li>
+            <li>2 lá nguyệt quế ( bay leaves – tuỳ chọn)</li>
+            <li>2-3 gốc hành trắng (green onions, white part only)</li>
+            <li>1 tbsp vừng trắng đã rang thơm (toasted white sesam)</li>
+            <li>2-3 tép tỏi ( garlic cloves – tuỳ chọn)</li>
+        </ul>
+        <img src="img/sate4.jpg" alt="">
+        <strong>CÁCH LÀM:</strong>
+        <p>1.Sơ chế ớt: Nếu không ăn được nhiều cay, các bạn có thể cắt nhỏ ớt ra và loại bỏ bớt hạt. Sau đó cho ớt vào chảo và rang ở lửa nhỏ đến khi ớt chuyển màu tối. Cách này giúp cho ớt dậy lên mùi thơm hơn so với ớt bột mua sẵn trong gói. Lưu ý là khi rang ớt có thể dậy mùi cay khá nồng nên cần mở cửa sổ thông thoáng và bịt khẩu trang cho bạn nào nhạy cảm.</p>
+        <p>2.Cho ớt đã rang vào cối giã mịn. Có thể dùng máy xay hay máy nghiền bột để tiết kiệm thời gian. Cho ớt đã giã min vào một cái bát tô cùng 1 thìa cafe tiêu Tứ Xuyên đỏ và vừng.</p>
+        <p>3.Dùng một cái nồi nhỏ cho dầu vào và đun nóng. Cho 1 thìa cafe tiêu Xuyên xanh (có thể dùng đỏ), gừng, hồi, quế, lá nguyệt quế và thân hành trắng vào phi thơm ở lửa nhỏ đến khi hành ngả màu cánh gián. Sau đó dùng muôi có lỗ vớt hết tất cả gia vị ra.</p>
+        <p>4.Đun dầu thêm ít phút nữa cho dầu nóng già. Sau đó đổ trực tiếp một nửa dầu trong chảo vào bát đựng ớt rồi dùng thìa đảo đều. Cẩn thận vì lúc này dầu rất nóng. 30s sau đổ tiếp số dầu còn lại trong chảo. Đợi bát nguội thì cho ớt vào trong hũ thuỷ tinh kín đậy lại. Đợi khoảng 1-2 ngày cho hũ sa tế ngấm và chuyển sang màu đỏ đẹp mắt.</p>
+        <img src="img/sate5.jpg" alt="">
+        <p>5.Ớt chưng (sa tế) Tàu có thể đuợc dùng để ăn hoành thánh, mì, lẩu cũng như một số món nộm gỏi. Vừa cay, vừa thơm và tạo màu đỏ bắt mắt đậm chất ẩm thực Trung Hoa.</p>
+        <img src="img/sate6.jpg" alt="">
+        <p>Chúc các bạn có đuợc một hũ sa tế ưng ý. Dù công thức ớt cùng các món khác khá cầu kỳ phức tạp và sử dụng nhiều nguyên liệu hơi khó tìm nên mình cũng không nghĩ là có nhiều bạn hào hứng triển khai món này. Tuy nhiên mình rất mong đợi sự phản hồi trả bài của các bạn. Để tiện theo dõi bài viết các bạn có thể đăng ký qua Email hoặc theo dõi Facebook Mykitchies-Bếp Á Âu của mình nhé.</p> `,
+
+    }
+
+
+    {
+        id: 22,
+        nameFood:'Chao (Đậu Phụ Nhự)',
+        type: ['Flavor'],
+        img:'img/dauphu1.jpg',
+        intro:'Chao, hay còn gọi là đậu phụ nhự, tiếng Anh: fermented bean curd, fermented tofu; tiếng Trung: 豆腐乳, 腐乳 – là đậu hũ lên men dưới dạng khá là cầu kỳ, là gia vị và món ăn quen thuộc trong ẩm thực Đông Á và Đông Nam Á. Sau quá trình ủ lên men tự nhiên và nuôi mốc thì chao sẽ được tẩm ướp cùng với các gia vị như hồi, quế, ớt bột, gừng, rượu và gạo Hồng Cúc (chao đỏ), sau đó bảo quản trong vòng 1 tuần, có khi lên tới 1 năm, cho tới khi viên chao (viên đậu hũ) trở nên săn cứng lại và ngấm gia vị ướp.',
+        content:`
+        <p>Chao có 2 loại: chao trắng và chao đỏ. Cả 2 chao có hương vị và màu sắc khác nhau, do đó chúng không thể thay thế cho nhau trong nhiều món ăn. Mùi chao tuy hơi khó ngửi nhưng vị ăn rồi khéo nghiện đấy ạ </p>
+        <p>Chao được sử dụng nhiều trong các món kho, om; có thể ăn trực tiếp kèm cháo (cái này khá là phổ biến), mỳ, bánh bao ; làm gia vị tẩm ướp, cũng như trong các món xào nấu. Trong các món Hồng Thiêu (hongshao – red cooking – cái này trong blog của mình có vài món rồi nhé, cứ màu đỏ là chính nó) của ẩm thực Trung Hoa thì chao đỏ là gia vị không thể thiếu, chúng góp phần giúp món ăn có thêm hương vị thơm ngon đặc biệt hơn. Ngoài ra chao đỏ còn được sử dụng làm nước chấm ăn lẩu (dipping sauce) và một số món khác. Rất nhiều công dụng phải không mọi người?</p>
+        <p>Có rất nhiều hãng bán chao, nếu các bạn có điều kiện các bạn có thể tìm mua chao của hãng Wang Zhi He, đây là hãng khá nổi ở Tàu 🙂 vị của nó khá ngon, bùi bùi, có vị mặn và thơm nhẹ mùi rượu. Mình đã mua được 1 lọ để kho thịt và làm xá xíu 😀</p>
+        <img src="img/dauphu2.jpg" alt="">
+            <p>Chao đỏ - mykitchites</p>`,
+        
+    }
+
+    {
+        id: 23,
+        nameFood:'Gia vị cà ri đỏ Thái Lan - homemade red curry paste',
+        type: ['Flavor'],
+        img:'img/giavido1.jpg',
+        intro:'Mùa dịch nên bôi ra đủ món nè, mình đã lên kế hoạch nấu một số món nhưng không may là não cá vàng quên mua gia vị. Tính nấu món cá trê sốt cà ri nhưng nhớ ra quên bèng mua cà ri đỏ, thôi thì vác xác ra làm. May thay mình có đủ gia vị (thiếu mỗi vỏ quả chanh số 8) nên mình triển luôn, vừa có bài đăng blog vừa nấu được món mình thích. Biết đâu cũng giúp được những bạn ở Việt Nam không tiện tìm mua gia vị cà ri đỏ thì có thể học cách tự làm tại nhà để dùng dần. Với gia vị cà ri đỏ các bạn có thể chế biến được khá nhiều món. Nguyên liệu đơn giản dễ kiếm, nếu các bạn không có đầy đủ thì tùy cơ ứng biến nha 🙂 Thường thì bạn nào lười có thể dùng máy xay xay 1 lèo là xong, mình cũng là đứa lười chảy thây nhưng mà viết blog dùng máy xay hơi khó coi nên đành làm bài bản còn có ảnh chụp',
+        content:`
+        <strong>NGUYÊN LIỆU:</strong>
+        <ul>
+            <li>2 thìa ăn riềng thái nhỏ (riềng hơi già 1 chút sẽ thơm hơn)</li>
+            <li>1 thìa ăn vỏ chanh Thái, thái nhỏ</li>
+            <li>2-3 lá chanh Thái, thái nhỏ</li>
+            <li>30 trái ớt sừng khô tạo màu (hoặc loại ớt khác không cay)</li>
+            <li>20 trái ớt cay khô loại cay</li>
+            <li>1 thìa cà phê muối</li>
+            <li>20 tép tỏi nhỏ (tép tỏi tây thì dùng cỡ 8-10 tép)</li>
+            <li>15 củ hành khô nhỏ (shallots)(to thì dùng cỡ 5-7 củ)</li>
+            <li>1/2 thìa ăn tiêu hạt đen + trắng trộn nhau</li>
+            <li>4 thìa ăn sả thái nhỏ</li>
+            <li>1/2 thìa ăn ớt bột</li>
+            <li>2 thìa cafe mắm ruốc Thái (có thể thay bằng mắm ruốc khô của VN)</li>
+            <li>1 thìa ăn hạt mùi (hạt ngò coriander seed)</li>
+            <li>1/2 thìa ăn thì là Ai Cập (cumin)</li>
+            <li>2 thìa ăn rễ mùi (rễ ngò – coriander root)</li>
+        </ul>
+        <img src="img/giavido2.jpg" alt="">
+
+        <strong>Lưu Ý:</strong>
+        <ul>
+
+            <li>Chanh Thái, hay còn gọi là cây chúc, chanh lá số 8, mùi hơi hăng và nồng hơn chanh Việt. Tuy nhiên nếu không có các bạn tạm thay bằng chanh ta nhé</li>
+            <li>Tùy vào sở thích ăn cay mà các bạn điều chỉnh, như công thức trên thì khá cay so với nhiều bạn. Các bạn có thể thay ớt tạo màu nhiều hơn hoặc giảm cả 2 lượng ớt tuy nhiên lúc đó màu sẽ nhạt bớt đi.</li>
+            <li>Nếu các bạn không có thời gian có thể dùng máy xay sinh tố xay 1 lúc tất cả. Nếu theo cách truyền thống thì nên dùng cối giã, tuy hơi tốn thời gian nhưng khi giã tinh dầu các nguyên liệu tiết ra cho thành phẩm ngon hơn.</li>
+            
+        </ul>
+        <strong>CÁCH LÀM:</strong>
+        <p>1.Đầu tiên rang hạt mùi, hạt tiêu và thì là Ai Cập lên thật thơm, sau đó giã mịn. Nếu dùng bột thì các bạn bỏ qua bước này. Ớt cay khô ngâm nước cho mềm rồi vớt ra, cắt bỏ cuống nếu có. Nếu các bạn muốn giảm độ cay thì có thể lấy hết hạt ớt ra. Hành khô và tỏi cắt khúc nhỏ.</p>
+        <p>2.Giã ớt cay thật nhuyễn. Sau đó cho sả, riềng, rễ mùi, lá chanh, vỏ chanh, hành khô, tỏi vào giã cùng đến khi thật mịn.</p>
+        <img src="img/giavido3.jpg" alt="">
+        <p>3.Bước cuối cho ớt bột, các loại hạt đã giã ở bước 1 cùng mắm ruốc Thái vào. Giã nhẹ cho đều.</p>
+        <p>4.Thành phẩm tươi có thể để được khoảng 2 tuần -1 tháng trong tủ mát, nếu làm nhiều các bạn có thể trữ đông để dùng dần.</p>`,
+    }
+
+    {
+        id: 24,
+        nameFood:'Tương Đậu Biện Tứ Xuyên (Doubanjiang)',
+        type: [Flavor],
+        img:'img/dautuong1.jpg',
+        intro:'Hallo cả nhà, dạo này mình lại rảnh rỗi nên tranh thủ viết bài còn vác balo đi chơi, bài này mình đã viết được cả tháng rồi, mỗi lúc một chút. Lần này mình giới thiệu với bạn đọc về một loại ẩm thực vô cùng quan trọng không thể thiếu trong ẩm thực Tứ Xuyên – Đậu biện tương, hay còn gọi là tương Douban, tương ớt Tứ Xuyên (pinyin: Doubanjiang, Tobian-djan; tiếng Trung: 豆瓣酱, tiếng Anh: Fermented broad bean paste). Đây được coi là linh hồn của ẩm thực Tứ Xuyên.',
+        content:`
+        <p>Tương Douban được làm từ 4 nguyên liệu chính: Đậu răng ngựa (hay còn gọi là đậu tằm – fava bean), ớt cay, muối và bột mỳ. Tương khá là đặc, trong đó nhiều hạt đậu vẫn còn nguyên, ớt cũng vậy, màu đỏ nâu, thơm nồng mùi đậu lên men, có vị mặn và cay. Có rất nhiều hãng bán tương douban, mỗi hãng sẽ có một vị cay và mặn khác nhau, do đó tùy vào hãng các bạn mua để có thể điều chỉnh vị trong món ăn cho phù hợp. Tương douban giúp cho món ăn có vị thơm ngon đậm đà hơn hẳn, nhưng đi kèm đó là cay nữa, các bạn cần chú ý nhé 🙂</p>
+        <p>Tương douban với thời gian ủ ngắn thì sẽ có màu đỏ nhạt, hơi đặc, còn ủ lâu thì sẽ có màu nâu tối, tương không nguyên hạt nữa. Thời gian ủ tương có thể kéo dài từ 1-8 năm, tương được ủ trong những lu vại lớn. Với phương pháp truyền thống thì đầu tiên đậu tằm sẽ được ủ lên men trong những cái chum (vại), đồng thời ớt Tứ Xuyên (1 loại ớt cay dài và thuôn giống ớt sừng trâu) cũng được ủ lên men nhưng tách biệt. Sau đó trộn lẫn chúng vào nhau bằng tay rồi ủ tiếp ít nhất thêm 1 năm, hằng ngày những người làm tương phải đảo lại 1 lượt rồi đậy nắp che. Vào lúc thời tiết tốt (có nắng) thì dỡ nắp rồi để ánh nắng trực tiếp chiếu vào, đây là yếu tố quyết định nhiều giúp cho tương có trở nên thơm ngon hơn.</p>
+        <img src="img/dautuong2.jpg" alt="">
+
+        <strong>Các loại tương Douban phổ biến:(xếp theo thứ tự ưu tiên về mùi vị)</strong>
+        <p>1.Pixian Doubanjiang: là tương Douban được làm tại tỉnh Tứ Xuyên, là loại chuẩn và ngon nhất về mùi vị, hợp nấu các món chuẩn Tứ Xuyên. Ngoài ra còn có nhiều hãng khác trong địa phương nhưng mình không liệt kê do nơi mình ở không có bán. Pixian có 2 loại: 1 loại khô đặc và 1 loại chưng dầu. Theo mình biết loại chưng dầu thì nấu đậu hũ Mapo sẽ cho màu đỏ tươi đẹp hơn.</p>
+        <img src="img/dautuong3.jpg" alt="">
+        <p>2.Tương Douban Đài Loan: Có 2 loại tương là tương cay (la doubanjiang) và không cay. Loại không cay (của hãng Đài Loan) sẽ được dùng nấu món đậu hũ Tứ Xuyên không cay.</p>
+        <p>3.Tương Douban Quảng Đông: chủ yếu được làm từ đậu nành và đậu tằm nên khác với Pixian Douban 1 chút. Do vùng Quảng Đông không sử dụng rộng rãi tương Douban nên đương nhiên là vị sẽ không thể chuẩn bằng loại 1. Nếu không có 2 loại trên thì mua tạm loại này. Các hãng phổ biến gồm Lee Kum Kee và Hongkong. Riêng loại Lee Kum Kee đã có mặt ở Việt Nam (tương hột ớt To Ban Djian các bạn có thể tự google).Hình ảnh nhãn mác một số loại tương Douban cho mọi người đối chiếu tham khảo:</p>
+         
+        <strong>Cách chế biến và bảo quản:</strong>
+        <ul>
+            <li>Thường khi mua thì tương douban sẽ được đóng gói 2 lớp, chúng ta lấy ra cho vào lọ thủy tinh rồi bảo quản trong ngăn mát tủ lạnh. Với loại tương douban gốc (không chưng dầu) thì có thể tiếp tục phơi nắng để cho quá trình ủ tương tiếp diễn và càng ủ lâu thì càng ngon (cái này mình chưa thử).</li>
+            <li>Khi nấu thì thương người ta dùng dao băm nhuyễn tương douban vì còn nhiều hạt đậu nguyên chưa vỡ và vỏ ớt còn to. Một số người thì cho vào máy sinh tố xay nhuyễn. Các bạn cũng có thể xay nhuyễn luôn rồi cho vào lọ bảo quản dùng dần.</li>
+            <li>Trong nhiều món xào nấu kho thì tương douban thường được phi với dầu khoảng 1-2 phút đến khi dầu ăn chuyển sang màu đỏ, cách làm này giúp món ăn dậy mùi thơm hơn. Thường thì sẽ cho 1 thìa ăn tương để giúp cho món ăn có vị umami, 2 thìa nếu muốn có vị tương douban dậy lên trong món ăn (Mapo Tofu), 3 thìa nếu muốn món ăn đậm đà và cay (ví dụ như lẩu Tứ Xuyên hay bò trụng)…</li>
+            <li>Tương Douban đã có vị mặn (Pixian Doubanjiang khoảng 18% muối) nên khi nấu cần chú ý điều chỉnh vị mặn nhạt.</li>
+            
+        </ul>
+        <strong>Các món chuyên sử dụng tương Douban:</strong>
+        <p>Rất rất nhiều món, điển hình là Đậu hũ Ma Bà (Mapo tofu), Gà Kung pao, Hồng thiêu ngưu nhục, Bò trụng Tứ Xuyên, vịt khoai môn Tứ Xuyên, lẩu Tứ Xuyên…. (một số các món mình đã nấu thì các bạn click vào tên món ăn đã in đậm là ra công thức nhé)</p>
+
+        <p>Hiện tại mình viết thế này thôi, nếu có gì cần bổ sung sau này mình sẽ cập nhật 🙂</p> `,
+            
+    }
+
+    {
+        id:25,
+        nameFood:'Cách làm tương XO(sốt xò điệp HongKong) - homemade HongKong XO sauce',
+        type: [Flavor],
+        img:'img/tuongxo1.jpg',
+        intro:'Tương XO là một loại sốt được làm chủ yếu từ hải sản khô có xuất xứ từ Hongkong, khá phổ biến trong ẩm thực Quảng Đông, được dùng để làm sốt chấm dumpling, các món xào nấu, cho vào ăn cùng cơm hay mì hoặc cho vào cơm rang để tăng thêm hương vị món ăn. Cái tên XO bắt nguồn từ loại rượu Cognac XO nổi tiếng của Pháp vì màu của chúng gần gần giống nhau, ngoài ra XO ở đây ám chỉ thứ gì đó chất lượng cao và mang tính sang trọng. Tương XO có vị cay, mặn vừa phải, hơi ngọt, thơm mùi hải sản khô và hành tỏi phi, tạo nên hương vị umami đặc biệt.',
+        content: `
+        <p>Thành phần chính có trong tương XO chủ yếu là tôm khô, cồi sò điệp khô và giăm bông muối treo khô Kim Hoa của tỉnh Triết Giang, Trung Quốc (Jinhua ham). Chính vì nguyên liệu khá đắt tiền nên tương XO cũng có giá khá cao so với các loại sốt khác trên thị trường. Nguyên liệu càng hịn thì thành phẩm càng ngon và giá thành cũng càng cao. Cồi sò điệp thì cồi càng to dày càng đắt tiền, cồi xuất xứ từ Nhật Bản sẽ thơm và ngọt thịt hơn cồi xuất xứ từ Trung Quốc. Giăm bông muối Jinhua trải qua quá trình ướp muối và phơi khô ở nơi tối và nhiệt độ thấp ổn định trong thời gian 9-10 tháng. Do điều kiện eo hẹp nên mình đành mua cồi sò điệp tươi đông đá về sấy khô và sử dụng Giăm bông Serrano của Tây Ban Nha để thay thế, tuy vậy thành phẩm cuối cùng mình tương đối hài lòng vì nó hơi bị thơm 😀</p>
+        <strong>Lứu Ý:</strong> <p>Như mình tìm hiểu thì Giăm bông Jinhua có vị tương đối gần giống giăm bông Iberia (Jamón Ibérico) của Tây Ban Nha, tiếp đến là Giăm bông Serrano của Tây Ban Nha. Do Jamón Ibérico đắt tiền quá và phải ra tận shop bán thịt nguội của Tây Ban Nha nên mình chạy ra siêu thị mua tạm Serrano thay thế. Nếu các bạn không tìm được 2 loại trên thì thay tạm bằng giăm bông Parma ham của Ý nhé, dù vị không giống lắm nhưng mà cho vào cùng các nguyên liệu khác mình nghĩ thay đổi cũng không đáng kể lắm đâu, vì chúng đều là thịt sống ướp muối và phơi khô 😀</p>
+        <strong>Nguyên Liệu:</strong>
+        <ul>
+            <li>150gr cồi sò điệp khô ( hoặc 450gr cồi sò điệp tươi tự sấy)</li>
+            <li>100gr giăm bông Jinhua (hoặc Serrano)</li>
+            <li>150gr tôm khô</li>
+            <li>300gr củ hành khô (shallots)</li>
+            <li>100gr tỏi</li>
+            <li>4 thìa rượu Thiệu Hưng (chia làm 2 phần) (hoặc thay bằng rượu nếp)</li>
+            <li>1 thìa ăn dầu hào (tùy chọn)</li>
+            <li>4 thìa ăn ớt bột mịn đỏ (mình tạm thay bằng ớt Gochugaru Hàn)</li>
+            <li>150gr ớt quả (nên chọn ớt ít cay hoặc cho ít đi vì chủ yếu tạo mùi thơm)</li>
+            <li>80gr cá muối khô (mình thay bằng 1 thìa cafe muối)</li>
+            <likhoảng 5 thìa ăn trứng tôm khô (shrimp roe – tùy chọn)li>
+            <li>2 thìa cafe bột gà pha với 250ml nước (hoặc thay bằng 250ml nước cốt gà)</li>
+            <li>1,5 thìa ăn đường</li>
+            <li>2 thìa ăn nước mắm cá</li>
+            <li>400-500ml dầu ăn</li>
+            <li>450gr cồi sò điệp tươi</li>
+            <li>2 thìa cafe muối</li>
+            
+        </ul>
+        <img src="img/tuongxo2.jpg" alt="">
+        <strong>CÁCH LÀM:</strong>
+        <p>1.Cồi sò điệp tươi ướp muối khoảng 30 phút, sau đó hấp qua cho chín rồi đem sấy ở 70-80 độ khoảng 3 tiếng. Các bạn có thể sấy ở 100 độ để rút ngắn thời gian. Vì là nhà làm nên mình sấy ở mức cứng khô vừa phải, sau đó phơi thoáng ở nhiệt độ phòng thêm 1 2 hôm cho khô hẳn. Rồi mình bỏ ngăn mát dùng trong vòng 1 tuần. Nếu muốn để được lâu hơn mình nghĩ các bạn nên sấy kỹ hơn như ngoài hàng bán. Ở Việt Nam các bạn có thể tìm mua cồi sò điệp khô ở trên mạng (mình có tìm thấy khá nhiều nơi bán).</p>
+        <p>2.Cồi sò điệp khô và tôm khô cho vào 2 bát riêng, pha mỗi bát 1 thìa ăn rượu Thiệu Hưng (hoặc rượu nếp) và đổ nước xâm xấp mặt. Ngâm khoảng 2 tiếng cho mềm. Sau đó tôm rửa qua cho sạch đất cát rồi băm thật nhuyễn, cồi sò điệp dùng tay bóp rồi xé sợi thật nhỏ.</p>
+        <img src="img/tuongxo3.jpg" alt="">
+        <p>3.Thịt giăm bông đem thái hạt lựu thật nhỏ (mình mua ít nên mua gói đã thái lát tuy nhiên khuyến khích mua cả miếng chưa cắt về tự cắt sẽ hay hơn), cho vào đĩa hấp khoảng 15 phút rồi giữ lại nước chảy ra. Cồi sò điệp sau khi xé cho vào bát hấp khoảng 45 phút, rồi giữ lại nước chảy ra trong bát để sau đó pha chung với nước dùng gà.</p>
+        <p>4.Tỏi với hành khô băm nhỏ. Riêng hành mình khuyên nên dùng máy xay qua để đỡ phải sướt mướt và siêu tiết kiệm thời gian. Ớt thái nhỏ.</p>
+        <p>5.Đun nóng dầu sôi cỡ 150 độ, hoặc châm que đũa vào thấy bong bóng li ti nổi thì thả tỏi vào phi vàng, sau đó dùng muôi lưới vớt ra tô để riêng, tiếp đó làm tương tự với hành. Cẩn thận quá tay hành tỏi chuyển màu nâu đen nhé.</p>
+        <img src="img/tuongxo4.jpg" alt="">
+        <p>6.Sau khi vớt hành thì đợi dầu nóng cho cồi sò điệp vào phi vàng rồi vớt ra, tiếp đến cho thịt giăm bông vào phi một chút rồi vớt ra. Tiếp đến cho tôm khô vào chiên tầm 30s thì cho ớt cay đã xắt nhỏ vào phi, sau đó cho toàn bộ nguyên liệu đã phi từ trước vào chảo, cho ớt bột tạo màu và hương thơm, cho nước mắm, dầu hào, muối, đường, 2 thìa ăn rượu còn lại cùng nước dùng gà và nước hấp thịt chảy ra. Hạ lửa rồi đảo đều khoảng 2 phút cho chúng hòa quyện vào nhau rồi tắt bếp. Để nguội rồi múc vào lọ đóng kín, để khoảng 2-3 ngày cho thành phẩm trở nên thơm ngon hơn.</p>
+        <img src="img/tuongxo5.jpg" alt="">
+        <p>7.Bảo quản ngăn mát nếu đúng cách sẽ được tầm 3 tháng tới 1 năm, yêu cầu dầu ngập che phủ nguyên liệu sốt để giữ được lâu và không bị khô.</p>
+        
+        <p>Chúc các bạn thành công với công thức gia vị này :)</p>`,
+    }
 
 ]
 
