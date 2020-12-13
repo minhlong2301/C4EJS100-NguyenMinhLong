@@ -1,0 +1,26 @@
+.container{
+    width: 600px;
+    height: 150px;
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.header{
+    width: 600px;
+    margin-bottom: -24px;
+    background-color: silver;
+    text-align: center;
+
+}
+
+.btn-submit{
+    background-color: darkcyan;
+    color: white;
+    border: none;
+    border-radius: 150px;
+}
+
+.btn-submit:hover{
+    cursor: pointer;
+}
+
